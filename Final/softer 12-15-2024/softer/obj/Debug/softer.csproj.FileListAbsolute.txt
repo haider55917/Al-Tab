@@ -1,0 +1,78 @@
+C:\Users\Administrator\Desktop\New folder (5)\TEST2\softer\softer\bin\Debug\softer.exe.config
+C:\Users\Administrator\Desktop\New folder (5)\TEST2\softer\softer\bin\Debug\softer.exe
+C:\Users\Administrator\Desktop\New folder (5)\TEST2\softer\softer\bin\Debug\softer.pdb
+C:\Users\Administrator\Desktop\New folder (5)\TEST2\softer\softer\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Administrator\Desktop\New folder (5)\TEST2\softer\softer\bin\Debug\Guna.UI.dll
+C:\Users\Administrator\Desktop\New folder (5)\TEST2\softer\softer\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Desktop\New folder (5)\TEST2\softer\softer\obj\Debug\softer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder (5)\TEST2\softer\softer\obj\Debug\softer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\New folder (5)\TEST2\softer\softer\obj\Debug\softer.exe
+C:\Users\Administrator\Desktop\New folder (5)\TEST2\softer\softer\obj\Debug\softer.pdb
+C:\Users\Administrator\Desktop\New folder (5)\TEST2\softer\softer\obj\Debug\softer.home.resources
+C:\Users\Administrator\Desktop\New folder (5)\TEST2\softer\softer\obj\Debug\softer.tableg.resources
+C:\Users\Administrator\Desktop\softer\softer\softer\bin\Debug\softer.exe.config
+C:\Users\Administrator\Desktop\softer\softer\softer\obj\Debug\softer.exe
+C:\Users\Administrator\Desktop\softer\softer\softer\obj\Debug\softer.pdb
+C:\Users\Administrator\Desktop\softer\softer\softer\bin\Debug\softer.exe
+C:\Users\Administrator\Desktop\softer\softer\softer\bin\Debug\softer.pdb
+C:\Users\Administrator\Desktop\softer\softer\softer\obj\Debug\softer.home.resources
+C:\Users\Administrator\Desktop\softer\softer\softer\obj\Debug\softer.tableg.resources
+C:\Users\Administrator\Desktop\softer\softer\softer\obj\Debug\softer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\softer\softer\softer\obj\Debug\softer.csproj.GenerateResource.Cache
+C:\Users\alityan\Desktop\softer\softer\bin\Debug\softer.exe.config
+C:\Users\alityan\Desktop\softer\softer\bin\Debug\softer.exe
+C:\Users\alityan\Desktop\softer\softer\bin\Debug\softer.pdb
+C:\Users\alityan\Desktop\softer\softer\obj\Debug\softer.csproj.AssemblyReference.cache
+C:\Users\alityan\Desktop\softer\softer\obj\Debug\softer.home.resources
+C:\Users\alityan\Desktop\softer\softer\obj\Debug\softer.tableg.resources
+C:\Users\alityan\Desktop\softer\softer\obj\Debug\softer.Properties.Resources.resources
+C:\Users\alityan\Desktop\softer\softer\obj\Debug\softer.csproj.GenerateResource.cache
+C:\Users\alityan\Desktop\softer\softer\obj\Debug\softer.csproj.CoreCompileInputs.cache
+C:\Users\alityan\Desktop\softer\softer\obj\Debug\softer.csproj.Up2Date
+C:\Users\alityan\Desktop\softer\softer\obj\Debug\softer.exe
+C:\Users\alityan\Desktop\softer\softer\obj\Debug\softer.pdb
+C:\Users\Administrator\Desktop\برنامج softer\softer 6-12-2024\softer\bin\Debug\softer.exe.config
+C:\Users\Administrator\Desktop\برنامج softer\softer 6-12-2024\softer\obj\Debug\softer.exe
+C:\Users\Administrator\Desktop\برنامج softer\softer 6-12-2024\softer\obj\Debug\softer.pdb
+C:\Users\Administrator\Desktop\برنامج softer\softer 6-12-2024\softer\bin\Debug\softer.exe
+C:\Users\Administrator\Desktop\برنامج softer\softer 6-12-2024\softer\bin\Debug\softer.pdb
+C:\Users\Administrator\Desktop\برنامج softer\softer 6-12-2024\softer\obj\Debug\softer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\برنامج softer\softer 6-12-2024\softer\obj\Debug\softer.home.resources
+C:\Users\Administrator\Desktop\برنامج softer\softer 6-12-2024\softer\obj\Debug\softer.tableg.resources
+C:\Users\Administrator\Desktop\برنامج softer\softer 6-12-2024\softer\obj\Debug\softer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\برنامج softer\softer 6-12-2024\softer\obj\Debug\softer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\برنامج softer\softer 6-12-2024 - Copy\softer\bin\Debug\softer.exe.config
+C:\Users\Administrator\Desktop\برنامج softer\softer 6-12-2024 - Copy\softer\bin\Debug\softer.exe
+C:\Users\Administrator\Desktop\برنامج softer\softer 6-12-2024 - Copy\softer\bin\Debug\softer.pdb
+C:\Users\Administrator\Desktop\برنامج softer\softer 6-12-2024 - Copy\softer\obj\Debug\softer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\برنامج softer\softer 6-12-2024 - Copy\softer\obj\Debug\softer.Form1.resources
+C:\Users\Administrator\Desktop\برنامج softer\softer 6-12-2024 - Copy\softer\obj\Debug\softer.home.resources
+C:\Users\Administrator\Desktop\برنامج softer\softer 6-12-2024 - Copy\softer\obj\Debug\softer.tableg.resources
+C:\Users\Administrator\Desktop\برنامج softer\softer 6-12-2024 - Copy\softer\obj\Debug\softer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\برنامج softer\softer 6-12-2024 - Copy\softer\obj\Debug\softer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\برنامج softer\softer 6-12-2024 - Copy\softer\obj\Debug\softer.exe
+C:\Users\Administrator\Desktop\برنامج softer\softer 6-12-2024 - Copy\softer\obj\Debug\softer.pdb
+C:\Users\Administrator\Desktop\برنامج softer\softer 12-12-2024\softer\bin\Debug\softer.exe.config
+C:\Users\Administrator\Desktop\برنامج softer\softer 12-12-2024\softer\obj\Debug\softer.exe
+C:\Users\Administrator\Desktop\برنامج softer\softer 12-12-2024\softer\obj\Debug\softer.pdb
+C:\Users\Administrator\Desktop\برنامج softer\softer 12-12-2024\softer\bin\Debug\softer.exe
+C:\Users\Administrator\Desktop\برنامج softer\softer 12-12-2024\softer\bin\Debug\softer.pdb
+C:\Users\Administrator\Desktop\برنامج softer\softer 12-12-2024\softer\obj\Debug\softer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\برنامج softer\softer 12-12-2024\softer\obj\Debug\softer.login.resources
+C:\Users\Administrator\Desktop\برنامج softer\softer 12-12-2024\softer\obj\Debug\softer.home.resources
+C:\Users\Administrator\Desktop\برنامج softer\softer 12-12-2024\softer\obj\Debug\softer.tableg.resources
+C:\Users\Administrator\Desktop\برنامج softer\softer 12-12-2024\softer\obj\Debug\softer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\برنامج softer\softer 12-12-2024\softer\obj\Debug\softer.csproj.GenerateResource.Cache
+C:\Users\alityan\Desktop\softer 12-12-2024\softer\bin\Debug\softer.exe.config
+C:\Users\alityan\Desktop\softer 12-12-2024\softer\bin\Debug\softer.exe
+C:\Users\alityan\Desktop\softer 12-12-2024\softer\bin\Debug\softer.pdb
+C:\Users\alityan\Desktop\softer 12-12-2024\softer\obj\Debug\softer.csproj.AssemblyReference.cache
+C:\Users\alityan\Desktop\softer 12-12-2024\softer\obj\Debug\softer.login.resources
+C:\Users\alityan\Desktop\softer 12-12-2024\softer\obj\Debug\softer.home.resources
+C:\Users\alityan\Desktop\softer 12-12-2024\softer\obj\Debug\softer.tableg.resources
+C:\Users\alityan\Desktop\softer 12-12-2024\softer\obj\Debug\softer.Properties.Resources.resources
+C:\Users\alityan\Desktop\softer 12-12-2024\softer\obj\Debug\softer.csproj.GenerateResource.cache
+C:\Users\alityan\Desktop\softer 12-12-2024\softer\obj\Debug\softer.csproj.CoreCompileInputs.cache
+C:\Users\alityan\Desktop\softer 12-12-2024\softer\obj\Debug\softer.csproj.Up2Date
+C:\Users\alityan\Desktop\softer 12-12-2024\softer\obj\Debug\softer.exe
+C:\Users\alityan\Desktop\softer 12-12-2024\softer\obj\Debug\softer.pdb
